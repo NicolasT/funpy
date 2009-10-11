@@ -1,0 +1,7 @@
+*.pyc
+*.bak
+*.swp
+
+cover
+.coverage
+*,cover
