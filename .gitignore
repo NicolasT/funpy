@@ -2,6 +2,12 @@
 *.bak
 *.swp
 
+build
+dist
+MANIFEST
+
 cover
 .coverage
 *,cover
+
+.DS_Store
